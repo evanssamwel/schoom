@@ -1,1 +1,1 @@
-# schoom
+# school mgt system
